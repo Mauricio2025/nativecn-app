@@ -18,20 +18,6 @@ Este projeto foi construído com base no projeto do Professor Rodrigo Gonçalves
 ## Pré-requisitos:
 Certifique-se de ter o Node.js e o npm (ou Yarn) instalados globalmente em sua máquina.
 
-## Como Rodar o Projeto:
-### Clonar o Repositório:
-```bash
-git clone https://github.com/seu-usuario/nativecn-app.git.
-
-
-## Instalar Dependências Como Rodar o Projeto:
-## npm
-cd nativecn-app
-npm install
-## Rodar o Projeto:
-npm start
-Isso iniciará o Expo Metro Bundler. Você pode escanear o QR code com o aplicativo Expo Go no seu dispositivo móvel para visualizar o aplicativo em tempo real.
-
 ## Estrutura do Projeto:
 src/: Contém o código-fonte do aplicativo.
 components/: Componentes React reutilizáveis.
@@ -52,5 +38,21 @@ Abra um Pull Request
 ## Autores:
 Mauricio Souza
 
-##Licença:
+## Licença:
 Este projeto está licenciado sob a MIT License.
+
+## Como Rodar o Projeto:
+### Clonar o Repositório:
+```bash
+git clone https://github.com/seu-usuario/nativecn-app.git.
+
+
+## Instalar Dependências Como Rodar o Projeto:
+npm
+cd nativecn-app
+npm install
+
+ Rodar o Projeto:
+npm start
+
+Isso iniciará o Expo Metro Bundler. Você pode escanear o QR code com o aplicativo Expo Go no seu dispositivo móvel para visualizar o aplicativo em tempo real.
