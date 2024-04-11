@@ -19,12 +19,13 @@ Este projeto foi construído com base no projeto do Professor Rodrigo Gonçalves
 Certifique-se de ter o Node.js e o npm (ou Yarn) instalados globalmente em sua máquina.
 
 ## Estrutura do Projeto:
-src/: Contém o código-fonte do aplicativo.
-components/: Componentes React reutilizáveis.
-screens/: Telas do aplicativo.
-types/: Tipos TypeScript.
-services/: Serviços como API ou armazenamento local.
-navigation/: Configuração de navegação.
+
+- src/: Contém o código-fonte do aplicativo.
+- components/: Componentes React reutilizáveis.
+- screens/: Telas do aplicativo.
+- types/: Tipos TypeScript.
+- services/: Serviços como API ou armazenamento local.
+- navigation/: Configuração de navegação.
 
 ## Contribuição:
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
