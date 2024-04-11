@@ -29,14 +29,14 @@ navigation/: Configuração de navegação.
 ## Contribuição:
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
 
-Fork o repositório
-Crie uma nova branch (git checkout -b feature/nova-feature)
-Faça commit das suas alterações (git commit -am 'Adicionar nova feature')
-Faça push para a branch (git push origin feature/nova-feature)
-Abra um Pull Request
+- Fork o repositório
+- Crie uma nova branch (git checkout -b feature/nova-feature)
+- Faça commit das suas alterações (git commit -am 'Adicionar nova feature')
+- Faça push para a branch (git push origin feature/nova-feature)
+- Abra um Pull Request
 
 ## Autores:
-Mauricio Souza
+Mauricio Souza Da Silva
 
 ## Licença:
 Este projeto está licenciado sob a MIT License.
